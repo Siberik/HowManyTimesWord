@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowManyTimesWord", "HowManyTimesWord\HowManyTimesWord.csproj", "{898A9923-DDA1-45B3-9878-9360CEA4CAAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowManyTimesWordLibrary", "HowManyTimesWord\HowManyTimesWordLibrary.csproj", "{898A9923-DDA1-45B3-9878-9360CEA4CAAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowManyTimesWordLibraryTests", "HowManyTimesWordLibraryTests\HowManyTimesWordLibraryTests.csproj", "{69F13AC0-DDE8-43BC-A4F1-FD3A57FF8202}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{898A9923-DDA1-45B3-9878-9360CEA4CAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{898A9923-DDA1-45B3-9878-9360CEA4CAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{898A9923-DDA1-45B3-9878-9360CEA4CAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F13AC0-DDE8-43BC-A4F1-FD3A57FF8202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F13AC0-DDE8-43BC-A4F1-FD3A57FF8202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F13AC0-DDE8-43BC-A4F1-FD3A57FF8202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F13AC0-DDE8-43BC-A4F1-FD3A57FF8202}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
